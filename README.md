@@ -16,5 +16,6 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-![App] (assets/tampilan login.png)
-![App] (assets/tampilan utama.png)
+
+![alt text](https://github.com/adiabdiyana/tugas-pertemuan3/blob/main/tampilan%20login.png?raw=true)
+![alt text](?raw=true)
